@@ -1,0 +1,140 @@
+{
+  "translations": {
+    "title": {
+      "tr": "Bizimle İletişime Geçin",
+      "en": "Get in Touch with Us"
+    },
+    "subtitle": {
+      "tr": "Endüstriyel yıkama makineleri için profesyonel çözümler",
+      "en": "Professional solutions for industrial washing machines"
+    },
+    "form": {
+      "name": {
+        "tr": "Adınız Soyadınız",
+        "en": "Your Full Name"
+      },
+      "email": {
+        "tr": "E-posta Adresiniz",
+        "en": "Your Email"
+      },
+      "phone": {
+        "tr": "Telefon Numaranız",
+        "en": "Your Phone Number"
+      },
+      "company": {
+        "tr": "Firma Adı",
+        "en": "Company Name"
+      },
+      "subject": {
+        "tr": "Konu",
+        "en": "Subject"
+      },
+      "message": {
+        "tr": "Mesajınız",
+        "en": "Your Message"
+      },
+      "submit": {
+        "tr": "Mesaj Gönder",
+        "en": "Send Message"
+      }
+    },
+    "contact": {
+      "title": {
+        "tr": "İletişim Bilgileri",
+        "en": "Contact Information"
+      },
+      "address": {
+        "tr": "Adres",
+        "en": "Address"
+      },
+      "phone": {
+        "tr": "Telefon",
+        "en": "Phone"
+      },
+      "email": {
+        "tr": "E-posta",
+        "en": "Email"
+      },
+      "workHours": {
+        "tr": "Çalışma Saatleri",
+        "en": "Working Hours"
+      }
+    },
+    "stats": {
+      "experience": {
+        "value": "25+",
+        "tr": "Yıllık Deneyim",
+        "en": "Years Experience"
+      },
+      "clients": {
+        "value": "1000+",
+        "tr": "Mutlu Müşteri",
+        "en": "Happy Clients"
+      },
+      "support": {
+        "value": "24/7",
+        "tr": "Teknik Destek",
+        "en": "Technical Support"
+      },
+      "team": {
+        "value": "100+",
+        "tr": "Uzman Ekip",
+        "en": "Expert Team"
+      }
+    }
+  },
+  "contactInfo": {
+    "address": {
+      "tr": "Organize Sanayi Bölgesi, 5. Cadde No:7, Kayseri, Türkiye",
+      "en": "Industrial Zone, 5th Street No:7, Kayseri, Turkey"
+    },
+    "phone": "+90 352 123 4567",
+    "email": "info@recency.com",
+    "workHours": {
+      "tr": "Pazartesi - Cumartesi: 09:00 - 18:00",
+      "en": "Monday - Saturday: 09:00 - 18:00"
+    },
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147.2834302506174!2d35.50297687574614!3d38.756654571386424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x152b1222a3b5fd6f%3A0x5f7d9c5af5c34e01!2sKayseri%20Organize%20Sanayi%20B%C3%B6lgesi!5e0!3m2!1str!2str!4v1695112458811!5m2!1str!2str"
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/recency",
+    "twitter": "https://twitter.com/recency",
+    "instagram": "https://instagram.com/recency",
+    "linkedin": "https://linkedin.com/company/recency"
+  },
+  "heroSection": {
+    "slides": [
+      {
+        "title": {
+          "tr": "Endüstriyel Yıkama Çözümleri",
+          "en": "Industrial Washing Solutions"
+        },
+        "subtitle": {
+          "tr": "Profesyonel çamaşırhaneler için yüksek performanslı makineler",
+          "en": "High-performance machines for professional laundries"
+        }
+      },
+      {
+        "title": {
+          "tr": "7/24 Teknik Destek",
+          "en": "24/7 Technical Support"
+        },
+        "subtitle": {
+          "tr": "Uzman ekibimizle her zaman yanınızdayız",
+          "en": "We are always by your side with our expert team"
+        }
+      },
+      {
+        "title": {
+          "tr": "Yenilikçi Teknoloji",
+          "en": "Innovative Technology"
+        },
+        "subtitle": {
+          "tr": "En son teknoloji ile donatılmış akıllı sistemler",
+          "en": "Smart systems equipped with the latest technology"
+        }
+      }
+    ],
+    "backgroundImage": "https://images.unsplash.com/photo-1497366811353-6870744d04b2"
+  }
+} 

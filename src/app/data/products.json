@@ -1,0 +1,210 @@
+{
+  "tr": {
+    "categories": [
+      {
+        "id": "high-speed",
+        "name": "Yüksek Hızlı Yıkama Makineleri ",
+        "modelNumber": "HW-X100",
+        "description": "Profesyonel çamaşırhaneler için yüksek performanslı çözümler",
+        "image": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?q=80&w=2070&auto=format&fit=crop",
+        "features": [
+          "60kg kapasiteye kadar",
+          "Yüksek sıkma hızı",
+          "Enerji tasarruflu",
+          "Akıllı kontrol sistemi"
+        ],
+        "specifications": {
+          "capacity": "30-60 kg",
+          "spinSpeed": "1000 rpm",
+          "dimensions": "120x150x180 cm",
+          "weight": "850 kg",
+          "power": "380V/50Hz"
+        },
+        "price": {
+          "amount": 125000,
+          "currency": "TRY"
+        },
+        "published": true
+      },
+      {
+        "id": "dryers",
+        "name": "Endüstriyel Kurutma Makineleri",
+        "modelNumber": "ID-T200",
+        "description": "Enerji verimli ve hızlı kurutma sistemleri",
+        "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?q=80&w=2069&auto=format&fit=crop",
+        "features": [
+          "Hassas kurutma programları",
+          "Düşük enerji tüketimi",
+          "Çoklu program seçeneği",
+          "Otomatik nem sensörü"
+        ],
+        "specifications": {
+          "capacity": "25-50 kg",
+          "temperature": "0-90°C",
+          "dimensions": "110x120x170 cm",
+          "weight": "650 kg",
+          "power": "380V/50Hz"
+        },
+        "price": {
+          "amount": 75000,
+          "currency": "TRY"
+        },
+        "published": true
+      },
+      {
+        "id": "special",
+        "name": "Özel Yıkama Sistemleri",
+        "modelNumber": "SW-D300",
+        "description": "Özel tekstil ürünleri için özelleştirilmiş çözümler",
+        "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?q=80&w=2070&auto=format&fit=crop",
+        "features": [
+          "Özel program desteği",
+          "Hassas yıkama seçenekleri",
+          "Profesyonel temizlik",
+          "Uzman destek hizmeti"
+        ],
+        "specifications": {
+          "capacity": "15-40 kg",
+          "spinSpeed": "800 rpm",
+          "dimensions": "100x120x160 cm",
+          "weight": "600 kg",
+          "power": "380V/50Hz"
+        },
+        "price": {
+          "amount": 95000,
+          "currency": "TRY"
+        },
+        "published": true
+      },
+      {
+        "id": "automation",
+        "name": "Otomasyon Sistemleri",
+        "modelNumber": "AS-M400",
+        "description": "Akıllı kontrol ve otomasyon çözümleri",
+        "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?q=80&w=2070&auto=format&fit=crop",
+        "features": [
+          "Uzaktan kontrol",
+          "Akıllı programlama",
+          "Verimlilik takibi",
+          "Bakım planlaması"
+        ],
+        "specifications": {
+          "compatibility": "Tüm modeller",
+          "interface": "10\" dokunmatik ekran",
+          "connectivity": "Wi-Fi, Ethernet",
+          "software": "RecencyOS 2.0",
+          "updates": "OTA desteği"
+        },
+        "price": {
+          "amount": 50000,
+          "currency": "TRY"
+        },
+        "published": true
+      }
+    ]
+  },
+  "en": {
+    "categories": [
+      {
+        "id": "high-speed",
+        "name": "High Speed ​​Washing Machines  2221",
+        "modelNumber": "HW-X100",
+        "description": "High-performance solutions for professional laundries  3",
+        "image": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?q=80&w=2070&auto=format&fit=crop",
+        "features": [
+          "60kg kapasiteye kadar",
+          "High spin speed",
+          "Energy efficient",
+          "Smart control system"
+        ],
+        "specifications": {
+          "capacity": "30-60 kg",
+          "spinSpeed": "1000 rpm",
+          "dimensions": "120x150x180 cm",
+          "weight": "850 kg",
+          "power": "380V/50Hz"
+        },
+        "price": {
+          "amount": 125000,
+          "currency": "TRY"
+        },
+        "published": true
+      },
+      {
+        "id": "dryers",
+        "name": "Industrial Dryers",
+        "modelNumber": "ID-T200",
+        "description": "Energy-efficient and fast drying systems",
+        "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?q=80&w=2069&auto=format&fit=crop",
+        "features": [
+          "Sensitive drying programs",
+          "Low energy consumption",
+          "Multiple program options",
+          "Automatic moisture sensor"
+        ],
+        "specifications": {
+          "capacity": "25-50 kg",
+          "temperature": "0-90°C",
+          "dimensions": "110x120x170 cm",
+          "weight": "650 kg",
+          "power": "380V/50Hz"
+        },
+        "price": {
+          "amount": 75000,
+          "currency": "TRY"
+        },
+        "published": true
+      },
+      {
+        "id": "special",
+        "name": "Special Washing Systems",
+        "modelNumber": "SW-D300",
+        "description": "Customized solutions for special textile products",
+        "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?q=80&w=2070&auto=format&fit=crop",
+        "features": [
+          "Special program support",
+          "Delicate washing options",
+          "Professional cleaning",
+          "Expert support service"
+        ],
+        "specifications": {
+          "capacity": "15-40 kg",
+          "spinSpeed": "800 rpm",
+          "dimensions": "100x120x160 cm",
+          "weight": "600 kg",
+          "power": "380V/50Hz"
+        },
+        "price": {
+          "amount": 95000,
+          "currency": "TRY"
+        },
+        "published": true
+      },
+      {
+        "id": "automation",
+        "name": "Automation Systems",
+        "modelNumber": "AS-M400",
+        "description": "Smart control and automation solutions",
+        "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?q=80&w=2070&auto=format&fit=crop",
+        "features": [
+          "Remote control",
+          "Smart programming",
+          "Efficiency tracking",
+          "Maintenance planning"
+        ],
+        "specifications": {
+          "compatibility": "Tüm modeller",
+          "interface": "10\" dokunmatik ekran",
+          "connectivity": "Wi-Fi, Ethernet",
+          "software": "RecencyOS 2.0",
+          "updates": "OTA desteği"
+        },
+        "price": {
+          "amount": 50000,
+          "currency": "TRY"
+        },
+        "published": true
+      }
+    ]
+  }
+}

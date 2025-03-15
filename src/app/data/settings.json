@@ -1,0 +1,65 @@
+{
+  "site": {
+    "name": "Recency",
+    "description": "Endüstriyel yıkama makineleri ve çözümleri",
+    "email": "info@recency.com",
+    "phone": "+90 352 123 4567",
+    "address": "Organize Sanayi Bölgesi, 5. Cadde No:7, Kayseri, Türkiye",
+    "social": {
+      "facebook": "https://facebook.com/recency",
+      "instagram": "https://instagram.com/recency",
+      "twitter": "https://twitter.com/recency",
+      "linkedin": "https://linkedin.com/company/recency"
+    }
+  },
+  "appearance": {
+    "theme": "light",
+    "primaryColor": "#2563eb",
+    "logo": "/images/logo.png",
+    "favicon": "/images/favicon.ico"
+  },
+  "localization": {
+    "defaultLanguage": "tr",
+    "supportedLanguages": ["tr", "en"],
+    "defaultCurrency": "TRY",
+    "supportedCurrencies": ["TRY", "USD", "EUR"]
+  },
+  "notifications": {
+    "email": {
+      "enabled": true,
+      "newOrder": true,
+      "newMessage": true,
+      "stockAlert": true
+    },
+    "push": {
+      "enabled": false,
+      "newOrder": true,
+      "newMessage": true
+    }
+  },
+  "security": {
+    "loginAttempts": 3,
+    "sessionTimeout": 3600,
+    "twoFactorAuth": false,
+    "passwordPolicy": {
+      "minLength": 8,
+      "requireNumbers": true,
+      "requireSpecialChars": true,
+      "requireUppercase": true
+    }
+  },
+  "seo": {
+    "title": {
+      "tr": "Recency - Endüstriyel Yıkama Makineleri",
+      "en": "Recency - Industrial Washing Machines"
+    },
+    "description": {
+      "tr": "Profesyonel çamaşırhaneler için endüstriyel yıkama makineleri ve çözümleri",
+      "en": "Industrial washing machines and solutions for professional laundries"
+    },
+    "keywords": {
+      "tr": ["endüstriyel yıkama", "çamaşırhane ekipmanları", "yıkama makineleri"],
+      "en": ["industrial washing", "laundry equipment", "washing machines"]
+    }
+  }
+} 

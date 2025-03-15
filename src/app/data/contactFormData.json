@@ -1,0 +1,134 @@
+{
+  "categories": [
+    {
+      "id": "product",
+      "name": {
+        "tr": "Ürün Bilgisi",
+        "en": "Product Information"
+      }
+    },
+    {
+      "id": "technical",
+      "name": {
+        "tr": "Teknik Destek",
+        "en": "Technical Support"
+      }
+    },
+    {
+      "id": "sales",
+      "name": {
+        "tr": "Satış",
+        "en": "Sales"
+      }
+    },
+    {
+      "id": "complaint",
+      "name": {
+        "tr": "Şikayet",
+        "en": "Complaint"
+      }
+    }
+  ],
+  "priorities": [
+    {
+      "id": "low",
+      "name": {
+        "tr": "Düşük",
+        "en": "Low"
+      },
+      "color": "#10B981"
+    },
+    {
+      "id": "normal",
+      "name": {
+        "tr": "Normal",
+        "en": "Normal"
+      },
+      "color": "#3B82F6"
+    },
+    {
+      "id": "high",
+      "name": {
+        "tr": "Yüksek",
+        "en": "High"
+      },
+      "color": "#EF4444"
+    }
+  ],
+  "statuses": [
+    {
+      "id": "unread",
+      "name": {
+        "tr": "Okunmamış",
+        "en": "Unread"
+      },
+      "color": "#EF4444"
+    },
+    {
+      "id": "read",
+      "name": {
+        "tr": "Okundu",
+        "en": "Read"
+      },
+      "color": "#3B82F6"
+    },
+    {
+      "id": "replied",
+      "name": {
+        "tr": "Yanıtlandı",
+        "en": "Replied"
+      },
+      "color": "#10B981"
+    },
+    {
+      "id": "archived",
+      "name": {
+        "tr": "Arşivlendi",
+        "en": "Archived"
+      },
+      "color": "#6B7280"
+    }
+  ],
+  "translations": {
+    "pageTitle": {
+      "tr": "İletişim",
+      "en": "Contact"
+    },
+    "searchPlaceholder": {
+      "tr": "Mesajlarda ara...",
+      "en": "Search messages..."
+    },
+    "filters": {
+      "allStatuses": {
+        "tr": "Tüm Durumlar",
+        "en": "All Statuses"
+      },
+      "allCategories": {
+        "tr": "Tüm Kategoriler",
+        "en": "All Categories"
+      },
+      "allPriorities": {
+        "tr": "Tüm Öncelikler",
+        "en": "All Priorities"
+      }
+    },
+    "messageDetails": {
+      "attachments": {
+        "tr": "Ekler",
+        "en": "Attachments"
+      },
+      "reply": {
+        "tr": "Yanıt",
+        "en": "Reply"
+      },
+      "writeReply": {
+        "tr": "Yanıtınızı yazın...",
+        "en": "Write your reply..."
+      }
+    },
+    "emptyState": {
+      "tr": "Detayları görüntülemek için bir mesaj seçin",
+      "en": "Select a message to view details"
+    }
+  }
+}    

@@ -1,0 +1,16 @@
+module.exports = {
+  root: true,
+  extends: [
+    'next/core-web-vitals',
+    'eslint:recommended',
+  ],
+  env: {
+    browser: true,
+    node: true,
+    es6: true,
+  },
+  rules: {
+    'no-unused-vars': 'warn',
+    'no-console': 'warn',
+  },
+}; 
